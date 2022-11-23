@@ -1,0 +1,35 @@
+---
+title: "Exam 1"
+author: '[Name]'
+date: "10/04/2019"
+output: 
+  html_document:
+    keep_md: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA, 
+                      message = FALSE, warning = FALSE)
+```
+
+## Packages
+
+```{r packages}
+
+```
+
+## Data
+
+```{r data}
+tdf <- readRDS(file = "tdf_2019.rds")
+```
+
+## Task 1
+
+
+
+## Task 2
+
+
+
+## Task 3
